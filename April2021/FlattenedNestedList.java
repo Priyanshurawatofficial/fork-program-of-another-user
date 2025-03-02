@@ -15,6 +15,7 @@
  *     public List<NestedInteger> getList();
  * }
  */
+//something edited by priyanshu
 public class NestedIterator implements Iterator<Integer> {
 
     private List<Integer> fList =null;
